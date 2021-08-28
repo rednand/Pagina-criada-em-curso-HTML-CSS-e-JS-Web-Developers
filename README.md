@@ -3,7 +3,7 @@
 
 <h3>Página hospedada em:</h3>
     
-<a  target="_blank" href="https://rednand.github.io/Site-criado-durante-curso-Coursera-HTML-CSS-JS-Web-Developers/"> 🔗 Clique aqui</a>
+<a  target="_blank" href="https://rednand.github.io/Pagina-criada-em-curso-HTML-CSS-e-JS-Web-Developers/"> 🔗 Clique aqui</a>
 
 <br>
 <br>
