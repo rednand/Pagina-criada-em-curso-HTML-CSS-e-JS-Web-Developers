@@ -1,16 +1,27 @@
 <h2> Projeto criado durante curso HTML, CSS, e Javascript para desenvolvedores web da Universidade Johns Hopkins, pela plataforma Coursera.</h2>
 <a target="_blank" href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">🔗 Site do curso</a>
 
+O site consome uma API que trazem os pratos e os combos especiais.
+
 <h3>Página hospedada em:</h3>
     
 <a  target="_blank" href="https://rednand.github.io/Pagina-criada-em-curso-HTML-CSS-e-JS-Web-Developers/"> 🔗 Clique aqui</a>
 
+![Capturar](https://user-images.githubusercontent.com/63618987/135007060-6c4f1ffe-ae14-4290-89a6-bb76699fb73d.PNG)
+
+![Capturars](https://user-images.githubusercontent.com/63618987/135007085-a44aac3b-579a-4754-880a-d8862b038429.PNG)
+
+![unknown](https://user-images.githubusercontent.com/63618987/135007203-cd2c412b-ee69-4685-829d-8ec27d9d2c52.png)
+
 <br>
 <br>
 <br>
-<a href="https://github.com/rednand">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/63618987?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
+
+Ferramentas utilizadas:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap 4
  
 👋🏽
 
