@@ -14,8 +14,6 @@ O site consome uma API que trazem os pratos e os combos especiais.
 ![unknown](https://user-images.githubusercontent.com/63618987/135007203-cd2c412b-ee69-4685-829d-8ec27d9d2c52.png)
 
 <br>
-<br>
-<br>
 
 Ferramentas utilizadas:
 - HTML
